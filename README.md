@@ -1,5 +1,7 @@
 Migration to Evrmore not yet done.
 
+This repository was forked from https://github.com/masari-project/masari-webwallet
+
 # Official Masari Web Wallet - Fully client-side 
 This web wallet is doing everything client-side to give the best privacy to users.
 The server is currently only used to optimize the communication with the daemon and compress the blockchain.  
